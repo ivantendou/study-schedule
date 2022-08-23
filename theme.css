@@ -34,3 +34,13 @@ body {
     bottom: -50px;
 }
 
+#slider {
+    /*height: 350px;
+    overflow: hidden;
+    width: 100%;*/
+}
+
+.carousel-item {
+    height: 350px;
+}
+
