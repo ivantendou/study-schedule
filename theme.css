@@ -20,5 +20,8 @@ body {
     margin-top: 100px;
 }
 
-
+.carousel {
+    border-radius: 2% ;
+    overflow: hidden;
+}
 
