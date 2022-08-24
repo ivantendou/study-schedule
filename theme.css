@@ -24,7 +24,3 @@ body {
     border-radius: 2px ;
     overflow: hidden;
 }
-
-.carousel-indicators {
-    bottom: -55px;
-}
